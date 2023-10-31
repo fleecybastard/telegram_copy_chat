@@ -6,7 +6,7 @@ from pyrogram.enums import ChatType
 API_ID = 1  # ENTER YOUR API ID
 API_HASH = ''  # ENTER YOUR API HASH
 
-TO_CHAT_ID = 1  # ENTER YOUR CHAT ID
+TO_CHAT_ID = -1002096320963  # ENTER YOUR CHAT ID
 
 app = Client('my_account', api_id=API_ID, api_hash=API_HASH)
 
